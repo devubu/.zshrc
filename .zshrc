@@ -248,6 +248,7 @@ alias l='ls -CF'
 # custom aliases
 alias vim='nvim'
 alias bat='batcat'
+alias cbat='batcat --paging=never'
 alias claer='clear'
 alias celar='clear'
 alias clera='clear'
